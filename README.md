@@ -29,27 +29,29 @@
 
 
 >김하늘
-
-사과
-
-더위부심?
-
-섬유산업 
-
+<img src="https://github.com/isp829/2021_MHC_3/blob/main/5.13/apple.png" width="50%">    
+곱창, 막창, 중화비빔밥 말고도 대구 사과가 유명하다 들었다
+<img src="https://github.com/isp829/2021_MHC_3/blob/main/5.13/Daefrica" width="50%">    
+대구 사는 사람들의 자부심중 하나가 더위부심이다. 
+<img src="https://github.com/isp829/2021_MHC_3/blob/main/5.13/dgFS.jpg" width="50%">    
+섬유산업의 발달로 이어진 대구의 패션사업도 있다.
+<img src="https://github.com/isp829/2021_MHC_3/blob/main/5.13/samsunglions.png" width="50%">    
 스포츠 선진도시(ex:삼성 라이온즈, 하계올림픽과 육상 세계 선수권 대회)
-
+<img src="https://github.com/isp829/2021_MHC_3/blob/main/5.13/DgS.jpg" width="50%">   
+<img src="https://github.com/isp829/2021_MHC_3/blob/main/5.13/DgC.jpg" width="50%">   
 다양한 역경들을 극복(ex:대구 지하철 사태, 코로나 사태)
  
 >박규민
-
+<img src="https://github.com/isp829/2021_MHC_3/blob/main/5.13/Nzmd.jpg" width="50%">   
 음식: 막창, 납작만두 
-
+<img src="https://github.com/isp829/2021_MHC_3/blob/main/5.13/Dggdh.jpg" width="50%">   
 관광지: 근대화거리(3.1 만세운동 했던 거리)
 
 >조진성   
 
+<img src="https://github.com/isp829/2021_MHC_3/blob/main/5.13/drgw.jpg" width="50%">   
   저는 두류공원야외음악당이랑 강정보 생각합니다. 두류공원야외음악당 같은 경우에는 코로나 전에 돗자리 피면서 단체로 음식을 먹으면서 그리고 다른 사람들과 모여 피크닉을 하기 좋은 곳이었어서 조금 자랑할만한 곳이라 생각합니다. 물론 코로나 지침에 의해 많은 사람들이 모여서 취식하는 것은 불가능 한 곳이긴 하지만, 간간이 저녁에 산책하러 가다보면 생각보다 코로나 분위기에도 많은 분들이 즐기고 있더라고요. 
-
+<img src="https://github.com/isp829/2021_MHC_3/blob/main/5.13/gzb.jpg" width="50%">   
   그리고 강정보 같은 경우에는 텐트를 칠 수 있는 캠핑장 같은게 있는거가 있어서 놀기 좋아 보이더라고요. 유튜브 영상을 보면 코로나 19사태에서도 캠핑가는 것도 있었고, 바이크도 타면서 놀 수 있어서 생각보다 놀기 좋아보입니다
 
 
