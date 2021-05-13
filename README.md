@@ -11,6 +11,7 @@
 # 5월 13일 1차 회의
 
 박인수
+<img src="https://github.com/isp829/2021_MHC_3/blob/main/%EB%B0%95%EC%9D%B8%EC%88%98/5%EC%9B%94%2013%EC%9D%BC%201%EC%B0%A8%20%ED%9A%8C%EC%9D%98/%EC%95%88%EC%A7%80%EB%9E%91%EA%B3%B1%EC%B0%BD%EA%B3%A8%EB%AA%A9-1.PNG" width="50%">    
 
 김하늘  
 박규민  
