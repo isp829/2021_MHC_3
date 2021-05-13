@@ -31,7 +31,7 @@
 >김하늘
 <img src="https://github.com/isp829/2021_MHC_3/blob/main/5.13/apple.png" width="50%">    
 곱창, 막창, 중화비빔밥 말고도 대구 사과가 유명하다 들었다
-<img src="https://github.com/isp829/2021_MHC_3/blob/main/5.13/Daefrica" width="50%">    
+<img src="https://github.com/isp829/2021_MHC_3/blob/main/5.13/Daefrica.jpg" width="50%">    
 대구 사는 사람들의 자부심중 하나가 더위부심이다. 
 <img src="https://github.com/isp829/2021_MHC_3/blob/main/5.13/dgFS.jpg" width="50%">    
 섬유산업의 발달로 이어진 대구의 패션사업도 있다.
