@@ -17,3 +17,7 @@
 # [5월 18일 ppt](https://github.com/isp829/2021_MHC_3/blob/main/518.md)      
 
 ---------------  
+# [5월 19일 대충 만들어보기](https://github.com/isp829/2021_MHC_3/blob/main/519.md)         
+
+---------------  
+
